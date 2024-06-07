@@ -5,4 +5,3 @@ Git tracks changes of files.
 test t2 t3
 test
 test
-test
